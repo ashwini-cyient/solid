@@ -1,7 +1,4 @@
-package com.geom.calculator;
-
-import com.geom.shapes.Circle;
-import com.geom.shapes.Square;
+package com.ocp.without.ocp;
 
 public class AreaCalculator {
 
